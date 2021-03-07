@@ -1,0 +1,21 @@
+body
+{
+    color:yellow;
+    background: tomato;
+}
+.heading
+{
+    width: 85%;
+    font-size: 25px;
+}
+#camera
+{
+    border: 3px dashed lightblue;
+    width: 400px;
+    height: 350px;
+}
+.name_of_objects, #result_object_name , #result_object_accuracy
+{
+    color: lightsalmon;
+    background: lightslategrey;
+}
